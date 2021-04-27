@@ -9,7 +9,7 @@ I am Andrea, a graphic designer who aspires a career as a front-end developer an
   - Science
   - Design
     
-- 📫 How to reach me: andreagnecco@gmail.com
+- 📫 How to reach me: andreagnecco at gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am also a pharmacist 👩‍🔬
 
