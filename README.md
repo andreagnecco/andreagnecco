@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-I am Andrea, a graphic designer and digital illustrator who aspires a career as a front-end developer and UX designer. You can find more about me: 
+I am Andrea, an UX/UI designer and front-end development enthusiast. You can find more about me: 
 
-- 🌱 I’m currently learning: Java, JavaScript, and HTML/CSS
+- 🌱 I’m currently learning: JavaScript and Reactjs.
 - 💬 Ask me about: 
   - Cats 
   - Videogames
