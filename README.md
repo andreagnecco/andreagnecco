@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am Andrea, an UX/UI designer, product designer and front-end development **enthusiast. You can find more about me: 
+I am Andrea, an UX/UI designer, product designer and front-end development **enthusiast**. You can find more about me: 
 
 - 🌱 I’m currently learning: JavaScript and Reactjs.
 - 💬 Ask me about: 
